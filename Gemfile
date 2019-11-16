@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
-ruby '2.2.4'
+ruby '2.6.0'
 
 group :development, :test do
-    gem 'rspec',                        '~> 3.4'
-    gem "codeclimate-test-reporter",    '~> 0.5'
+    gem 'rspec',                        '~> 3.9'
 end
