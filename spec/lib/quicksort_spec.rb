@@ -1,5 +1,4 @@
-require 'spec_helper.rb'
-require_relative '../../service/quicksort.rb'
+require_relative '../../lib/quicksort.rb'
 
 RSpec.describe Quicksort do
     describe '#sort?' do
