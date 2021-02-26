@@ -1,4 +1,4 @@
-require_relative '../../lib/string_util.rb'
+require 'String_Util'
 
 puts StringUtil.palindrome?("123")
 

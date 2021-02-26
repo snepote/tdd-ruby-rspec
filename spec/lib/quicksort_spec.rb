@@ -1,4 +1,4 @@
-require_relative '../../lib/quicksort.rb'
+require 'Quicksort'
 
 RSpec.describe Quicksort do
     describe '#sort?' do
