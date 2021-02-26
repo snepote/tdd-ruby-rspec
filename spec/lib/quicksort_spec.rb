@@ -1,4 +1,4 @@
-require 'Quicksort'
+require 'quicksort'
 
 RSpec.describe Quicksort do
     describe '#sort?' do
