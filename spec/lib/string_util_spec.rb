@@ -1,4 +1,4 @@
-require 'String_Util'
+require 'string_util'
 
 puts StringUtil.palindrome?("123")
 
